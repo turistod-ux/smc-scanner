@@ -1,0 +1,24 @@
+{
+  "filters": {
+    "MID_RANGE_4H": 112,
+    "NO_STRUCTURE_HOLD": 764,
+    "NO_ROOM_TO_TP1": 274,
+    "NO_15M_CONFIRMATION": 677,
+    "WEAK_4H_BOS_IMPULSE": 796,
+    "INVALID_STOP_OR_ENTRY": 342,
+    "DISCOUNT_SHORT": 361,
+    "LATE_ENTRY": 509,
+    "PREMIUM_LONG": 395,
+    "HTF_CONFLICT_1D": 310,
+    "UNHEALTHY_PULLBACK": 342,
+    "STALE_4H_STRUCTURE": 276,
+    "HTF_CONFLICT_4H": 78,
+    "NO_4H_LIQUIDITY_SWEEP": 90,
+    "NO_4H_STRUCTURE": 6
+  },
+  "closed": [],
+  "report": {
+    "last_sent_date": "",
+    "filter_snapshot": {}
+  }
+}
